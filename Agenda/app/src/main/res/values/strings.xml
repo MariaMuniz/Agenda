@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Contato</string>
+    <string name="lnl_Nome">Nome</string>
+    <string name="lnl_Telefone">Telefone</string>
+    <string name="lnl_Email">Email</string>
+    <string name="lnl_Endereco">Endereço</string>
+    <string name="lnl_DataEspecias">Datas Especias</string>
+    <string name="lnl_Grupos" />
+    <string name="lnl_Grupo">Grupo</string>
+    <string name="lnl_DatasEspeciais">Datas Especiais</string>
+    <string name ="lbl_salvar">Salvar</string>
+    <string name ="lbl_excluir">Excluir</string>
+
+</resources>

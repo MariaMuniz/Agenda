@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="L">#98FB98</color>
+    <color name="H">#F08080</color>
+    <color name="M">#00FA9A</color>
+    <color name="N">#FF7F50</color>
+    <color name="I">#D8BFD8</color>
+    <color name="A">#FFA07A</color>
+    <color name="B">#FFDAB9</color>
+    <color name="C">#FFE4B5</color>
+    <color name="D">#FFC0CB</color>
+    <color name="E">#B0E0E6</color>
+    <color name="F">#EEE8AA</color>
+    <color name="G">#e1b546</color>
+
+</resources>
